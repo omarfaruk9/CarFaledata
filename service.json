@@ -1,0 +1,149 @@
+[
+    {
+        "id": 1,
+        "service_name": "Engine Diagnostics Entire",
+        "service_charge": "234",
+        "service_info": "Most of the vehicles get damaged just because of maintenance neglect you take",
+        "img": "https://i.ibb.co/grHVnr2/tim-mossholder-V37i-Tr-YZz2-E-unsplash.jpg"
+    },
+    {
+        "id": 2,
+        "service_name": "Performance Upgrade",
+        "service_charge": "75",
+        "service_info": "Most of the vehicles get damaged just because of maintenance neglect you take",
+        "img": "https://i.ibb.co/nLP0546/tekton-O-ufc-LVTAYw-unsplash.jpg"
+    },
+    {
+        "id": 3,
+        "service_name": "Transmission Services",
+        "service_charge": "70",
+        "service_info": "Most of the vehicles get damaged just because of maintenance neglect you take",
+        "img": "https://i.ibb.co/cypmnxM/sten-rademaker-UZUzv-JEv-Kn-I-unsplash.jpg"
+    },
+    {
+        "id": 4,
+        "service_name": "Break Repair & Service",
+        "service_charge": "30",
+        "service_info": "Most of the vehicles get damaged just because of maintenance neglect you take",
+        "img": "https://i.ibb.co/jD5KWDt/kumpan-electric-6-Ebpwylytk4-unsplash.jpg"
+    },
+    {
+        "id": 5,
+        "service_name": "Engine Service & Repair",
+        "service_charge": "55",
+        "service_info": "Most of the vehicles get damaged just because of maintenance neglect you take",
+        "img": "https://i.ibb.co/H4PyNCt/erik-mclean-3u-Hl-GFnz-PDU-unsplash.jpg"
+    },
+    {
+        "id": 6,
+        "service_name": "Tyre & Wheels",
+        "service_charge": "15",
+        "service_info": "Most of the vehicles get damaged just because of maintenance neglect you take",
+        "img": "https://i.ibb.co/k6yf87F/kasarin-naipongprasit-2gt1p-Xvq-IEI-unsplash.jpg"
+    },
+    {
+        "id": 7,
+        "service_name": "Denting & Painting",
+        "service_charge": "32",
+        "service_info": "Most of the vehicles get damaged just because of maintenance neglect you take",
+        "img": "https://i.ibb.co/FBHrcgk/goh-rhy-yan-C9-PMQlg3-Ha-Q-unsplash.jpg"
+    },
+    {
+        "id": 8,
+        "service_name": "Air Conditioning Evac",
+        "service_charge": "35",
+        "service_info": "Most of the vehicles get damaged just because of maintenance neglect you take",
+        "img": "https://i.ibb.co/VqgXyTR/kumpan-electric-G1-Xk2-C87-Rb8-unsplash.jpg"
+    },
+    {
+        "id": 9,
+        "service_name": "General Service & Washing",
+        "service_charge": "15",
+        "service_info": "Most of the vehicles get damaged just because of maintenance neglect you take",
+        "img": "https://i.ibb.co/xMsZX8Y/neonbrand-2-K-PG95ql-I-unsplash.jpg"
+    },
+    {
+        "id": 10,
+        "service_name": "Lube, vehicles damaged",
+        "service_charge": "15",
+        "service_info": "Most of the vehicles get damaged just because of maintenance neglect you take",
+        "img": "https://i.ibb.co/jHvXqrD/arseny-togulev-x-TXIAVRI3r-A-unsplash.jpg"
+    },
+    {
+        "id": 11,
+        "service_name": "WAX VEHICLE",
+        "service_charge": "15",
+        "service_info": "Most of the vehicles get damaged just because of maintenance neglect you take",
+        "img": "https://i.ibb.co/pKHd8HH/chad-kirchoff-xe-e69j6-Ds-unsplash.jpg"
+    },
+    {
+        "id": 12,
+        "service_name": "Tyre & Wheels",
+        "service_charge": "15",
+        "service_info": "Most of the vehicles get damaged just because of maintenance neglect you take",
+        "img": "https://i.ibb.co/c2MfCCP/c-joyful-he-FTscw-GDCA-unsplash.jpg"
+    },
+    {
+        "id": 13,
+        "service_name": "TRANSFER CASE FLUID",
+        "service_charge": "15",
+        "service_info": "Most of the vehicles get damaged just because of maintenance neglect you take",
+        "img": "https://i.ibb.co/H4PyNCt/erik-mclean-3u-Hl-GFnz-PDU-unsplash.jpg"
+    },
+    {
+        "id": 14,
+        "service_name": "INSPECT SHOCKS AND STRUTS",
+        "service_charge": "15",
+        "service_info": "The shock absorbers and struts on your car function to control the impact and rebound as your vehicle passes over bumps in the road and are an essential part of your auto’s steering system. They should be inspected by a professional every 80,000 kilometres or bring your car in to the shop if you notice a decrease in smoothness or loss of control when driving.",
+        "img": "https://i.ibb.co/ZJs5fnM/erik-mclean-io-Ej-MWHn2n-Y-unsplash.jpg"
+    },
+    {
+        "id": 15,
+        "service_name": "COOLANT FLUID EXCHANGE",
+        "service_charge": "215",
+        "service_info": "The radiator in your car is a vital component that helps keep your engine cool and functioning properly. Having your coolant system flushed regularly will help get rid of contaminants that can build up inside as well as ensure that your radiator is filled to a proper level. Check your vehicle manufacturer’s recommendation to find out how often your coolant should be changed.",
+        "img": "https://i.ibb.co/XZ0BbWR/daniel-bestjumpstarterreview-com-jb-PWzy-KPGb-U-unsplash.jpg"
+    },
+    {
+        "id": 16,
+        "service_name": "SPARK PLUGS",
+        "service_charge": "75",
+        "service_info": "The spark plugs in your engine ignite the gas and air mixture that ultimately powers your vehicle. If your spark plugs aren’t functioning properly, your engine will lose power and won’t run at optimal capacity. Have a professional check and replace any faulty spark plugs depending on vehicle manufacturer’s recommendations or when you feel a decrease in your engine’s power.",
+        "img": "https://i.ibb.co/3F8xYyF/anastasiia-krutota-otf4d-Qgd-Nqo-unsplash.jpg"
+    },
+    {
+        "id": 17,
+        "service_name": "SERPENTINE BELT",
+        "service_charge": "35",
+        "service_info": "Although may seem like a simple piece of rubber, your vehicle’s serpentine belt is essential to keep your car running by powering peripheral devices such as your alternator, power steering pump, and air conditioner compressor. Visually inspect the belt to ensure that it is free of cracks or other wear and tear.  Replace if damaged or according to your vehicle manufacture’s recommendation.",
+        "img": "https://i.ibb.co/wSNBnzb/bertrand-turpin-AL0yj-V1-Wnp-I-unsplash.jpg"
+    },
+    {
+        "id": 18,
+        "service_name": "REAR DIFFERENTIAL",
+        "service_charge": "15",
+        "service_info": "The differentials are devices that split the torque—or power—from the engine and allow it to send power to the tyres. In front or rear-wheel drive vehicles, there is only one differential, but in 4-wheel and all-wheel drive vehicles, there is both a front and rear differential, and possibly even a centre differential. Like many parts of your vehicle, the differentials need to be kept lubricated to ensure proper functionality. Have a professional check and change fluid whenever your vehicle manufacturer recommends it.",
+        "img": "https://i.ibb.co/4gbWnC3/mohammad-danish-d58-X3-KZBM-unsplash.jpg"
+    },
+    {
+        "id": 19,
+        "service_name": "SEASONAL CHECK-UPS",
+        "service_charge": "15",
+        "service_info": "The needs of your vehicle can vary by season and driving conditions. Following are a few suggestions to add to the notes section of your vehicle maintenance checklist:",
+        "img": "https://i.ibb.co/JpW8zKy/dan-burton-dv-M7a-d-IXFc-unsplash.jpg"
+    },
+    {
+        "id": 20,
+        "service_name": "REPLACE WINDSHIELD WIPERS",
+        "service_charge": "15",
+        "service_info": "Windshield wipers need to be replaced about once every year, or whenever the effectiveness is compromised. ",
+        "img": "https://i.ibb.co/BsbHgmJ/joshua-rondeau-P8f-MMRy-Yd-Jw-unsplash.jpg"
+    },
+    {
+        "id": 21,
+        "service_name": "BATTERY PERFORMANCE CHECK",
+        "service_charge": "15",
+        "service_info": "Your car battery is one of the most important components for your vehicle to run. A car battery supplies large amounts of electrical current for the starter, engine and other electronic accessories in the vehicle. Extreme temperatures affect the performance of the battery so regular battery testing will ensure that battery will perform when you need it to.",
+        "img": "https://i.ibb.co/PQjbXB6/oziel-gomez-O255-DOFra-Ac-unsplash.jpg"
+    }
+]
